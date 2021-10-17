@@ -2,12 +2,16 @@ Pablo Rubio Segura - Bernardo Montero Jimenez
 12°1
 
 En tus palabras ¿qué es internet?
+El internet es una red de información que nos permite conectar al mundo entero y nos permite transmitir información, mensajer e ideas.
 
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+La información en el internet se puede enviar tanto por medios físicos, como lo son cierto tipo de cables, o por medios de propagación de ondas, por ejemplo las ondas de radio. Todos estos sistemas son utilizados para representar el código binario que es el que se convertirá en la información deseada (ya sea una imagen, una canción, etc).
+Un medio físico es la electricidad, lo cual tiene ventajas como que su costo es bajo, sin embargo su alcance es bastante pobre. Otra forma física es la fibra óptica (la luz) la cual refleja luz dentro de los cables a altas velocidades permitiéndonos compartir información a largas distancias; el problema con este tipo de medio es que el costo es más elevado y el sistema es más frágil. Por último, la información también se puede enviar a través de ondas de radio las cuales no tienen tanto alcance pero no requieren de infraestructura física y son capaces de representar el código binario, el cuál después se transfiere a los cables físicos para poder viajar largas distancias. 
 
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 
-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 
