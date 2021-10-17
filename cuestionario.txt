@@ -3,15 +3,17 @@ Pablo Rubio Segura - Bernardo Montero Jimenez
 
 En tus palabras ¿qué es internet?
 El internet es una red de información que nos permite conectar al mundo entero y nos permite transmitir información, mensajer e ideas.
+En resumen, se podría decir que el internet es una red de redes que conecta a millones de computadoras y dispositivos en el mundo.
 
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 La información en el internet se puede enviar tanto por medios físicos, como lo son cierto tipo de cables, o por medios de propagación de ondas, por ejemplo las ondas de radio. Todos estos sistemas son utilizados para representar el código binario que es el que se convertirá en la información deseada (ya sea una imagen, una canción, etc).
 Un medio físico es la electricidad, lo cual tiene ventajas como que su costo es bajo, sin embargo su alcance es bastante pobre. Otra forma física es la fibra óptica (la luz) la cual refleja luz dentro de los cables a altas velocidades permitiéndonos compartir información a largas distancias; el problema con este tipo de medio es que el costo es más elevado y el sistema es más frágil. Por último, la información también se puede enviar a través de ondas de radio las cuales no tienen tanto alcance pero no requieren de infraestructura física y son capaces de representar el código binario, el cuál después se transfiere a los cables físicos para poder viajar largas distancias. 
 
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-
+Las direcciones IP (un grupo de números de 32 bits con cierta jerarquía) son la manera que tenemos para identificar a cadad uno de los dispositivos en el mundo (es decir, cada dispositivo cuenta con su propia dirrección IP). Los DNS es la relación que existe entre los nombres de las páginas con las direcciones IP, es decir, si buscamos www.youtube.com, el DNS relaciona esta dirección con una dirección de IP específica lo cual nos permite accesar a dicha página en específico. IP = Internet Protocol, DNS = Domain Name System.
 
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Cuando cierta información se envía a través del internet no se envía completa, sino que se envía en lo que podemos llamar paquetes. Cuando una canción se envía, la canción se divide en estos "paquetes" los cuales toman rutas diferentes dependiendo de los routers. Cuando la canción llega a su destino, el TCP (Transmission Control Protocol) se asegura que todos los paquetes llegaron; de no ser así, el TCP se asegurará que los paquetes que falten sean enviados para que de esta manera la información llegue completa. Una vez todos los paquetes estén en dónde se supone que tienen que estar, la información es representada, en este caso la canción puede ser escuchada.
 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 
